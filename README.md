@@ -42,59 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[OfficeSpace Software](https://www.officespacesoftware.com/)**  
-
-  End-to-end space management platform focused on space planning, move management, booking, and facilities workflows.
-
-
-
-- **[Condeco / Eptura Engage](https://eptura.com/)**  
-
-  Enterprise meeting-room and desk booking solution with deep Microsoft 365 integration and workplace analytics (part of the broader Eptura portfolio).
-
-
-
-- **[Robin](https://robinpowered.com/)**  
-
-  Modern workplace platform emphasizing interactive maps, desk and room booking, AI-assisted scheduling, and occupancy analytics.
-
-
-
-- **[Eden](https://www.edenworkplace.com/)**  
-
-  Workplace experience and operations platform covering desk booking, visitor management, and office services.
-
-
-
-- **[Envoy Workplace / Desks](https://envoy.com/)**  
-
-  Desk and room booking combined with visitor management, occupancy insights, and workplace security features.
-
-
-
-- **[Skedda](https://www.skedda.com/)**  
-
-  Popular mid-market space booking platform known for interactive floor plans, flexible booking rules, and per-space pricing.
-
-
-
-- **[SpaceIQ / Eptura](https://eptura.com/)**  
-
-  Broader workplace and IWMS capabilities including space planning, asset management, and booking (SpaceIQ is part of Eptura).
-
-
-
-- **[FM:Systems, Archibus](https://www.fmsystems.com/)**  
-
-  Established IWMS and facilities management platforms that include space management, planning, and related workplace modules.
-
-
-
-- **[Other workplace platforms](https://www.skedda.com/)**  
-
-  Additional solutions for hybrid office booking, occupancy sensing, and workplace experience.
+| Platform | Description | Starting Price | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[OfficeSpace Software](https://www.officespacesoftware.com/)** | End-to-end space management platform focused on space planning, move management, booking, and facilities workflows. | $500/month (base plan starting tier) | No free forever plan; 0-day self-serve trial (guided demo available upon request) |
+| **[Condeco / Eptura Engage](https://eptura.com/)** | Enterprise meeting-room and desk booking solution with deep Microsoft 365 integration and workplace analytics. | $5/user/month (~$1,500/year base tier) | No free forever plan; 0-day self-serve trial (enterprise demo upon request) |
+| **[Robin](https://robinpowered.com/)** | Modern workplace platform emphasizing interactive maps, desk and room booking, AI scheduling, and occupancy analytics. | $3/user/month ($1,500/year Starter tier) | No free forever plan; 14-day free trial with full feature access |
+| **[Eden Workplace](https://www.edenworkplace.com/)** | Workplace experience and operations platform covering desk booking, visitor management, and office services. | $89/month per location (Accelerate plan) | Free Starter tier for up to 5 employees; 14-day free trial on paid plans |
+| **[Envoy Workplace / Desks](https://envoy.com/)** | Desk and room booking combined with visitor management, occupancy insights, and workplace security features. | $3/user/month ($109/month per location) | Free Basic tier for Visitor Management (up to 100 visitors/mo); 14-day free trial for Workplace & Desks |
+| **[Skedda](https://www.skedda.com/)** | Popular mid-market space booking platform known for interactive floor plans, flexible booking rules, and per-space pricing. | $99/month (Starter plan, includes up to 15 spaces) | No free forever plan; 30-day free trial with full feature access (no credit card required) |
+| **[SpaceIQ / Eptura](https://eptura.com/)** | Broader workplace and IWMS capabilities including space planning, asset management, and booking. | $50/user/month (~$5,000/year base plan) | No free forever plan; 0-day self-serve trial (custom enterprise demo upon request) |
+| **[FM:Systems / Archibus](https://www.fmsystems.com/)** | Established IWMS and facilities management platforms including space management, planning, and workplace modules. | $300/user/month (~$10,000/year enterprise base) | No free forever plan; 0-day self-serve trial (guided executive demo upon request) |
+| **[Kadence](https://kadence.co/)** | Hybrid workplace management platform focusing on desk/room booking, team event scheduling, and workplace analytics. | $4/user/month (billed annually) | No free forever plan; 14-day free trial with full feature access |
+| **[Officely](https://officely.ai/)** | Slack and Microsoft Teams integrated desk booking and hybrid workplace scheduling tool. | $2.50/user/month (billed annually) | Free forever plan for up to 5 employees; 14-day free trial on paid plans |
 
 
 
